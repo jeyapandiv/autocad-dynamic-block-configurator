@@ -1,0 +1,22 @@
+# AutoCAD temporary files
+*.bak
+*.log
+*.tmp
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if any)
+node_modules/
+
+# Dependencies
+*.o
+*.obj
